@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel 
 - 👀 I’m interested in learning codes
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on an Assignment i was given
 - 📫 How to reach me email 
 - 😄 Pronouns: He, his 🥱
 - ⚡ Fun fact: I'm a short guy
